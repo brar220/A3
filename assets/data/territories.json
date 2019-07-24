@@ -1,0 +1,8 @@
+{
+  "territories": 
+	[
+		{"capital": "Yellowknife","name": "Northwest Territories"},
+		{"capital": "Iqualuit","name": "Nunavut"},
+		{"capital": "Whitehorse","name": "Yukon Territory"}
+  ]
+}
